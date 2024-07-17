@@ -1,6 +1,6 @@
 ### AI Compliance Questionnaire
 
-This questionnaire was built to help enterprises and series A onward startups to help keep a record of how your data is used by AI tooling. The aim is to understand the following key areas:
+This questionnaire was built to help enterprises and startups (Series A and beyond) keep a record of how your data is used,transacted and operated on by AI tooling. The aim is to understand the following key areas
 
 - Data security
 - Training Practices
