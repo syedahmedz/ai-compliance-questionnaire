@@ -63,5 +63,114 @@ Upload privacy and data retention policies
 - [ ] No
 - [ ] N/A
 
+11. Does your platform allow for the option to "opt-out" of training all public and proprietary models, for all of the data in scope for this relationship?
 
+- [ ] Yes 
+- [ ] No
+- [ ] N/A
+
+12. Does your company have measures in place to address "prompt injection" attacks, such as monitoring, detection, prevention, or mitigation strategies?
+
+- [ ] Yes (If yes, please describe the process and attach documentation)
+- [ ] No
+- [ ] N/A
+
+13. Can our organization opt out of all of your company's Acceptable Use Policy (AUP) reviews and prevent your company from accessing clear-text data associated with AUP violations?
+
+- [ ] Yes 
+- [ ] No
+- [ ] N/A
+
+14. In the event of any incidents can you provide event logs/details?
+
+- [ ] Yes 
+- [ ] No
+- [ ] N/A
+
+
+15. If the system crashes, is any temporary (data processed in memory, only for the period of time needed to process a specific action in real-time and for no other purpose) or in-memory data saved?
+
+- [ ] Yes (if yes, please explain the reason for storing this data)
+- [ ] No
+- [ ] N/A
+
+16. How long is data retained in volatile memory during GenAI processing? Is volatile memory cleared periodically, or is there a specific process for purging it?
+
+- [ ] Yes (if yes, please explain your process for handling this data)
+- [ ] No
+- [ ] N/A
+
+17. Do your platforms use of GenAI offer Zero Data Retention (ZDR)? This means our organizations prompt/completion/inference data would never be stored in clear-text anywhere, including files, databases, logs, etc.
+
+- [ ] Yes
+- [ ] No
+- [ ] N/A
+
+18. Does your platform display a real-time status for Zero Data Retention (ZDR), like a toggle switch or indicator? If not, can this be included as a feature request in our agreement?
+
+- [ ] Yes
+- [ ] No
+- [ ] N/A
+
+19. Please provide proof demonstrating how your company will technically enable and enforce Zero Data Retention (ZDR) for our agreement. This could be a screenshot of your ZDR configuration policy, along with another screenshot showing masked or empty audit logs when ZDR is active.
+
+- [ ] Yes
+- [ ] No
+- [ ] N/A
+
+20. Are Zero Data Retention (ZDR) configuration changes recorded in logs accessible to our organization? If not, can this be included as a feature request in our  agreement?
+
+- [ ] Yes
+- [ ] No
+- [ ] N/A
+
+21. Does your company have a process to address instances where your Large Language Model generates inaccurate information ("hallucinates") or discloses Personal Information? If so, please describe the process and/or provide documentation as evidence.
+
+- [ ] Yes
+- [ ] No
+- [ ] N/A
+
+22. Does your company use human feedback to retrain or refine your models? If so, please describe the process and/or provide supporting documentation.
+
+- [ ] Yes
+- [ ] No
+- [ ] N/A
+
+23.To provide the services outlined in this agreement, does your company utilize any third-party AI service providers, including public or proprietary foundational models
+
+- [ ] Yes
+- [ ] No
+- [ ] N/A
+
+24. Where are your third-party AI services hosted?
+
+- [ ] ONLY hosted On-premise within your company's infrastructure/network (including GCP,Azure,AWS or other VPCs that your company administers)
+- [ ] ONLY hosted by the third-party AI service provider (Such as via their SaaS offering, for example Open AI, Anthropic, etc)
+- [ ] BOTH - Some components are hosted by your company, and some components are hosted by the AI service provider
+
+25. Will the AI service provider have any access, involvement, or interaction with our data, including sharing, handling, or processing?
+
+- [ ] Yes
+- [ ] No
+- [ ] N/A
+
+26. If your company develops its own foundational models (FM), please indicate if any are accessible (publicly or through subscription) on cloud-based ML platforms like GCP, Azure or AWS. If so, list the specific platforms in below.
+
+- [ ] Yes
+- [ ] No
+- [ ] N/A
+
+27. Do you have explicit agreements with your third-party AI Service Providers (AISPs) stating that:
+(a) Your customer's prompt/completion/inference data will never be retained or accessible in clear-text by the AISPs, and
+(b) Your customer's data will never be used to train the AISPs' foundational models (FMs)?
+
+- [ ] Yes
+- [ ] No
+- [ ] N/A
+
+28. Can we explicitly choose to (a) have zero data retention with your AI service provider and (b) prevent our data from being used to train their model?
+
+- [ ] Yes
+- [ ] No
+- [ ] N/A
 
