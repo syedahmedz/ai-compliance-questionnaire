@@ -11,7 +11,7 @@ This questionnaire was built to help enterprises and startups (Series A and beyo
 
 The questionnaire itself can be found [here](questionnaire.md)
 
-## Deploying through Google Apps Scripts 
+## Deploying to Google Forms through Google Apps Scripts 
 
 For ease of use, this questionnaire can be easily deployed on google forms and its reponses stored within your workspace. In order to do this follow theese instruactions
 
