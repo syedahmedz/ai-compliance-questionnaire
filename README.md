@@ -1,4 +1,4 @@
-### AI Compliance Questionnaire
+## AI Compliance Questionnaire
 
 This questionnaire was built to help enterprises and startups (Series A and beyond) keep a record of how your data is used,transacted and operated on by AI tooling. The aim is to understand the following key areas
 
@@ -11,7 +11,7 @@ This questionnaire was built to help enterprises and startups (Series A and beyo
 
 The questionnaire itself can be found [here](questionnaire.md)
 
-### Deploying through Google Apps Scripts 
+## Deploying through Google Apps Scripts 
 
 For ease of use, this questionnaire can be easily deployed on google forms and its reponses stored within your workspace. In order to do this follow theese instruactions
 
