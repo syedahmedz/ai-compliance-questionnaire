@@ -10,3 +10,15 @@ This questionnaire was built to help enterprises and startups (Series A and beyo
 - Data handling for PII and sensitive data
 
 The questionnaire itself can be found [here](questionnaire.md)
+
+### Deploying through Google Apps Scripts 
+
+For ease of use, this questionnaire can be easily deployed on google forms and its reponses stored within your workspace. In order to do this follow theese instruactions
+
+1. Log into your Google Workspace
+2. Head over to https://script.google.com/
+3. Click on the '+' sign and add a script
+4. Copy paste the code found [here](googleFormsAIQuestionnaire.gs)
+5. Click on 'Run' to ensure there are no bugs in the script
+6. When this script executes, the logs should display a unique URL to the form that can be shared.
+
