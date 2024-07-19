@@ -18,7 +18,7 @@ For ease of use, this questionnaire can be easily deployed on google forms and i
 1. Log into your Google Workspace
 2. Head over to https://script.google.com/
 3. Click on the '+' sign and add a script
-4. Copy paste the code found [here](googleFormsAIQuestionnaire.gs)
+4. Copy paste the code found [here](googleFormsAIQuestionnaire.gs) (Please note that .gs as a file extension is javascript based scripting preferred by google cloud apps, hence the extension .gs and not .js) 
 5. Click on 'Run' to ensure there are no bugs in the script
 6. When this script executes, the logs should display a unique URL to the form that can be shared.
 
